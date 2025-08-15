@@ -26,7 +26,7 @@
 3. **Instale o Pygame Zero: 'pip install pgzero'
 4. Execute o jogo usando o terminal: 'pgzrun main.py'
 
-##Tecnologias
+## Tecnologias
 
 Python 3.12.2
 Pygame Zero
